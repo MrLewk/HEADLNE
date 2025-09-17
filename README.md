@@ -5,6 +5,10 @@
 
 ---
 
+## The main codebase for HEADLNE// is `private`. This repository exists so contributions can be made to the localisation (i18n) of the app using the base GB English JSON template in the `/i18n` dir. You can also use the Discussions tab and submit Issues/Suggestions here as well.
+
+---
+
 ## 🌍 What is HEADLNE//?
 
 HEADLNE// is a sleek news aggregator designed to give you the world at a glance.  
